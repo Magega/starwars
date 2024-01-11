@@ -38,4 +38,4 @@ Mui: Used for UI in project `npm install @mui/material`
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or want to enhance the application, feel free to create a pull request
+Contributions are welcome! If you find any issues or want to enhance the application, feel free to create a pull request# starwars
